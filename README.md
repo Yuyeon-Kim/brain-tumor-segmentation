@@ -9,11 +9,11 @@ You can download the BraTS dataset in the link: https://www.kaggle.com/datasets/
 And place the dataset in "drive/MyDrive" folder
 ```
 drive/MyDrive/
-¦¦¦¡¦¡ MICCIC_BraTS_2019_Data_Training/
-    ¦§¦¡¦¡ HGG/
-    ¦§¦¡¦¡ LGG/
-    ¦§¦¡¦¡ name_mapping.csv
-    ¦¦¦¡¦¡ survival_data.csv
+â””â”€â”€ MICCIC_BraTS_2019_Data_Training/
+    â”œâ”€â”€ HGG/
+    â”œâ”€â”€ LGG/
+    â”œâ”€â”€ name_mapping.csv
+    â””â”€â”€ survival_data.csv
 ```
 
 ### 2. Run Code
